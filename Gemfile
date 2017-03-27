@@ -1,4 +1,14 @@
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in tureng.gemspec
-gemspec
+group :test do
+  gem 'rake'
+  gem 'rspec'
+end
+
+group :development do
+  gem 'guard'
+  gem 'guard-rspec'
+  gem 'pry'
+  gem 'pry-nav'
+  gem 'pry-remote'
+end

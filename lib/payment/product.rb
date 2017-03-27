@@ -1,9 +1,11 @@
-class Product
-  attr_accessor :code, :name, :price
+module Payment
+  class Product
+    attr_accessor :code, :name, :price
 
-  def initialize(code, name, price)
-    @code = code
-    @name = name
-    @price = price
+    def initialize(code, name, price)
+      @code = code
+      @name = name
+      @price = price
+    end
   end
 end
