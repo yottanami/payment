@@ -1,5 +1,6 @@
 # Payment
 [![Build Status](https://travis-ci.org/msdundar/payment.svg?branch=master)](https://travis-ci.org/msdundar/payment)
+[![Code Climate](https://img.shields.io/codeclimate/github/msdundar/payment.svg)](https://codeclimate.com/github/msdundar/payment)
 
 **payment** is a sample Ruby application used to manage products, discounts and promotions.
 
