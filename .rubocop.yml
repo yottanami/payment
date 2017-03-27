@@ -6,3 +6,6 @@ Documentation:
 
 Metrics/BlockLength:
   ExcludedMethods: ['describe', 'context', 'feature']
+
+Style/FrozenStringLiteralComment:
+  Enabled: false

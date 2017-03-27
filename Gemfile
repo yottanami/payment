@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 group :test do
-  gem 'rake'
+  gem 'rake', '< 11.0'
   gem 'rspec'
 end
 

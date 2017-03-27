@@ -20,8 +20,13 @@ module Payment
       @promotions << promotion
     end
 
+    def remove_promotion(promotion)
+      position = @promotions.index(promotion)
+      @promotions.delete_at(position) if position
+    end
+
     def total_gross
-      @products.inject(0) { |sum, e| sum + e.price }
+      @products.inject(0) { |acc, elem| acc + elem.price }
     end
 
     def total_net
