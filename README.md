@@ -4,7 +4,7 @@
 
 **payment** is a sample Ruby application used to manage products, discounts and promotions.
 
-* Works fine with `Ruby 2.3.1` and other versions are not tested yet.
+* Works fine with `Ruby 2.4.1` and other versions are not tested yet.
 
 # Usage
 
