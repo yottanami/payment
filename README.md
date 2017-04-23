@@ -74,6 +74,10 @@ Code quality is checked with [Rubocop](https://github.com/bbatsov/rubocop), [Tra
 
 [![Build Status](https://secure.travis-ci.org/msdundar/payment.svg?branch=master)](http://travis-ci.org/msdundar/payment) [![Code Climate](https://img.shields.io/codeclimate/github/msdundar/payment.svg)](https://codeclimate.com/github/msdundar/payment)
 
+## ToDo
+
+- Move discount method to a new Class.
+
 ## Contributing
 
 1. `fork` the repo ( https://github.com/msdundar/payment/fork )
