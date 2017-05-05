@@ -1,6 +1,7 @@
 # Payment
 [![Build Status](https://travis-ci.org/msdundar/payment.svg?branch=master)](https://travis-ci.org/msdundar/payment)
 [![Code Climate](https://img.shields.io/codeclimate/github/msdundar/payment.svg)](https://codeclimate.com/github/msdundar/payment)
+[![CircleCI](https://circleci.com/gh/msdundar/payment.svg?style=svg)](https://circleci.com/gh/msdundar/payment)
 
 **payment** is a sample Ruby application used to manage products, discounts and promotions.
 
@@ -72,7 +73,7 @@ Currently, all tests are passing with awesome 'green'. Run `bundle exec rspec` f
 
 Code quality is checked with [Rubocop](https://github.com/bbatsov/rubocop), [TravisCI](https://travis-ci.org/) and [CodeClimate](https://codeclimate.com/).
 
-[![Build Status](https://secure.travis-ci.org/msdundar/payment.svg?branch=master)](http://travis-ci.org/msdundar/payment) [![Code Climate](https://img.shields.io/codeclimate/github/msdundar/payment.svg)](https://codeclimate.com/github/msdundar/payment)
+[![Build Status](https://secure.travis-ci.org/msdundar/payment.svg?branch=master)](http://travis-ci.org/msdundar/payment) [![Code Climate](https://img.shields.io/codeclimate/github/msdundar/payment.svg)](https://codeclimate.com/github/msdundar/payment) [![CircleCI](https://circleci.com/gh/msdundar/payment.svg?style=svg)](https://circleci.com/gh/msdundar/payment)
 
 ## ToDo
 
